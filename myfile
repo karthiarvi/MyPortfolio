@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+		<section id="about">
+    <img src=""C:\Users\Aravind.Goka\Downloads\WhatsApp Image 2025-02-04.jpeg"" alt="Your Photo" width="150" height="150"
+    <p>Hi, I'm a frontend developer with expertise in ReactJS, JavaScript, HTML, and CSS.</p>
+</section>
+
+        <p>Hi, I'm a frontend developer with expertise in ReactJS, JavaScript, HTML, and CSS.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+		
+		<h2>Project 1</h2>
+        <div class="project">
+            <h3>Client: Apple Inc, Austin,Tx</h3>
+			<h3>Title : Sr.Java Developer , Dec 2023 - Tilldate</h3>
+            <p>•	Designed and developed a Restful service interface using Spring MVC to the underlying customer event API.
+•	Experienced in writing JUnit Test cases for Java and JEE applications.
+•	Worked on Spring Security for application authentication.
+•	Designed and developed RESTful APIs for data retrieval and manipulation, seamlessly connecting front-end applications to PostgreSQL backend.
+•	Implemented data migration scripts to ensure smooth transitions between PostgreSQL database versions, minimizing data loss and downtime.
+•	Implemented the REST APIs and data transformers using the JAVA connector which involves the use of JAVA8 features Lambda and Streams.
+•	 Built CI/CD pipelines in Azure DevOps to automate testing, building, and deploying of Java applications, ensuring faster and more reliable releases.</p>
+
+
+        </div>
+        <div class="project">
+		<h2>Project 2</h2>
+            <h3>Client: Google Inc,Austin,Tx</h3>
+			<h3>Title:Sr.Java Developer, April 2023 - Nov 2023</h3>
+            <p>•	Involved with java full stack development like HTML, CSS, JavaScript and jQuery with Mongo DB and backend technologies like J2EE, Webservices, Ajax, jQuery for monitoring the data flow between systems.
+•	Extensively Worked with Angular CLI and created components, Services, pipes, Directives.
+•	Architect Java EE API’s: Restful Web Services (JAX-RS) and SOAP Web Services (JAX-WS) for load balancing and file processing.
+•	Worked on Angular 7/8/9, creating components, directives, pipes, and services.
+•	Updated the application with new features of Angular 8/9, RxJS.</p>
+
+
+        </div>
+		  <h2>Project 3</h2>
+        <div class="project">
+            <h3>Client:MetLife Insurance, Cary,Nc</h3>
+			<h3>Title: Java Developer, July 2022 - Feb2023</h3>
+            <p>•	Implementing project using Agile Scrum Methodology, involved in daily stand-up meetings and sprint showcase and sprint retrospective.
+•	Designed and maintained a data warehouse solution using PostgreSQL, enabling efficient reporting and analytics for business stakeholders.
+•	Developed presentation layer using HTML, JSP, Ajax, CSS and jQuery and done Front End Developing UI Interface using JSP/Tiles, JSTL, PHP. JavaScript, Bootstrap and maintained the code.
+•	Managed Docker orchestration using Docker Swarm and also responsible for the containerization of applications using Docker.
+•	Involved in creating and Deployment of REST API and Micro Services in Java J2EE using Spring Boot</p>
+
+        </div>
+        <div class="project">
+        <h2>Project 4</h2>
+		<h3>Client: Master Card, O'Fallon,MO</h3>
+		<h3>Title:Full Stack Java Developer, Jan2022 - Jun2022</h3>
+            <p>•	Design, develop and test highly interactive web applications utilizing HTML5, CSS3, Bootstrap, Material UI, JavaScript, jQuery and ReactJS and integrating Restful API’s, external web services ensuring high performance on Mobile and Desktop
+•	Implemented React JS code to handle cross browser compatibility issues in Mozilla, IE 7, 8, 9, Safari and FF
+•	Used React-Router to turn application into Single Page Application and also for routing the redux app to connect redux and react to support routes.
+•	Implemented stable React components and stand-alone functions to be added to any future pages.
+•	The presentation layer used Spring MVC to implement the MVC architecture design and facilitates user interface designed by use of Ui components, directives, filters, services, and router modules. 
+•	Worked in backend API’s on React using GraphQL for transactions.
+•	Updated the application with popular React.js workflows (Flux or Redux)
+•	Worked in using React.JS components, Forms, Events, Keys, Router, Animations and Flux concept.
+•	Knowledge in using React JS, Node JS, Flux for SPA development.</p>
+        </div>
+        <div class="project">
+            <h2>Project 5</h2>
+			<h3>Client:Liberty Mutual Insurance, Dover,NH</h3>
+			<h3>Title:Sr.Java Developer, Jan 2021 - Dec 2021</h3>
+			
+            <p>•Involved in various SDLC phases like requirement gathering, Design, Analysis and Code development.
+•	Used React JS for creating loop directive and components to render views and to update object model dynamically.
+•	Used Bootstrap and React JS to create Controllers to handle events triggered by clients and send request to server.
+•	Analyzed the React JS server structure in legacy project, then mimicked the REST service by using Java JAX-WS API and did the corresponding configurations.
+•	Configured Web pack to execute linters, magnifiers, pre/post-processors, tests, transpires, etc. based on build target.
+•	I am skilled in creating and managing ActiveMQ destinations, including queues and topics, to meet specific messaging requirements.
+•	Developed robust message producers and consumers using the Java Message Service (JMS) API, integrating them seamlessly with ActiveMQ.
+•	Developed monitoring and administration tools to track message queues, monitor message flow, and manage ActiveMQ instances.</p>
+        </div>
+		<div class="project">
+            <h2>Project 6</h2>
+			<h3>Client:AMDOCS, Dallas,Tx</h3>
+			<h3>Title: Full Stack Java Developer, April 2020 - Dec2020</h3>
+			<p>•	Involved in Collection, Analysis, Design, Development and Testing requirements of applications developed using AGILE Worked per Agile Methodology (Scrum) to meet customer expectation, timelines with quality deliverables.
+•	Involved in preparing Maven builds scripts, deployments and integration and configuration management of the entire application modules.
+•	Developed HTML views with HTML5, CSS3, JSON Involved in writing Java API for Amazon Lambda to manage some of the AWS services. Involved in creating and Deployment of REST API and Microservices in Java J2EE using Spring Boot.
+•	Involved in creating and Deployment of REST API and Micro Services in Java J2EE using Spring Boot. 
+•	Integrated Interceptors in Angular 8/9 application, which is helpful for every single HTTP request or response.
+•	Used Angular CLI to generate, test, bundle and build Angular projects
+•	Moved existing AngularJS controllers and services to Angular 2 components for more responsive and less dependency.
+•	Build new components in Angular 2 and typescript to enhance legacy application.</p>
+       </div>
+	   <div class="project">
+	        <h2>Project 7</h2>
+			<h3>Client:Flipkart, Hyderabad,India</h3>
+			<h3>Title: Java Developer, Sept 2016 - Oct 2019</h3>
+			<p>•	Involved in Analysis, Design and Implementation translation of Business User requirements.
+•	 I implemented the project as a multi-tier application using Spring MVC, Spring boot, Microservices & used core Spring concepts like AOP, IOC. Worked with Agile Methodology.
+•	Implemented various java design patterns like Front Controller, Singleton, façade, Data Access objects, Factory pattern, etc.
+•	Designed and implemented database schema using PostgreSQL, optimizing data storage and retrieval of products.
+•	Developed the application using Java and implemented its features like lambda Expressions, Time API, Streams, functional interfaces, collectors, default methods, type interfaces, for each. Created RESTful web services interface to Java-based runtime engine and accounts.
+•	Implementation using JBOSS ESB, Java, Spring, JAXB, Hibernate, Oracle Database, Webpack.
+•	Involved in writing Java API for Amazon Lambda to manage some of the AWS services. Involved in creating and Deployment of REST API and Microservices in Java using Spring Boot. Used Eclipse as IDE for development of the application</p>
+
+
+ 
+		
+    </section>
+    
+    <section id="contact">
+        <h2>945-249-1107<h2>
+        <p>Email:aravindreddy.workspace1@gmail.com<p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/aravind-reddy-542551235/" target="_blank">Visit My LinkedIn</a>>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 My Portfolio. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
